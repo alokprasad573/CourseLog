@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alokprasad573/CourseLog.git"
+    "url": "git+https://github.com/alokprasad573/Student-Record-API.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/alokprasad573/CourseLog/issues"
+    "url": "https://github.com/alokprasad573/Student-Record-API/issues"
   },
-  "homepage": "https://github.com/alokprasad573/CourseLog#readme",
+  "homepage": "https://github.com/alokprasad573/Student-Record-API#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cookie-parser": "^1.4.7",
